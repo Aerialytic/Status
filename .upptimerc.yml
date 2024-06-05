@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Aerialytic AI
     url: https://aerialytic.ai
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: GraphQL API
+    url: https://aerialytic.ai
+  - name: CRM
+    url: https://portal.aisolar.design
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -19,12 +21,14 @@ status-website:
   cname: status.aerialytic.ai
   # baseUrl: /your-repo-name
   logoUrl: https://lh3.googleusercontent.com/erTYSKM9FoO7i8QR_6qWv_3VgidWLs4PF5ecl1S8tHMryKtw11hXFiD9d3SSKxZ1RSVQ8dbEFsAjdLMOLrtAs5r-1AJw-_0rIZx2=s0
-  name: Aerialytic AI
-  introTitle: "Scale Your  Sales with Instant AI Solar Designs"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # name: Aerialytic AI
+  introTitle: "Aerialytic Status Page"
+  introMessage: Real-time Status and Performance of Our APIs, Web Services, and Applications
   navbar:
     - title: Status
       href: /
+    - title: CRM
+      href: https://portal.aisolar.design
     - title: Platform
       href: https://platform.aerialytic.ai
 
