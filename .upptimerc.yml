@@ -21,7 +21,7 @@ status-website:
   cname: status.aerialytic.ai
   # baseUrl: /your-repo-name
   logoUrl: https://lh3.googleusercontent.com/erTYSKM9FoO7i8QR_6qWv_3VgidWLs4PF5ecl1S8tHMryKtw11hXFiD9d3SSKxZ1RSVQ8dbEFsAjdLMOLrtAs5r-1AJw-_0rIZx2=s0
-  # name: Aerialytic AI
+  name: ""
   introTitle: "Status Page"
   introMessage: Real-time Status and Performance of Our Technology, APIs, Web Services, and Applications
   navbar:
