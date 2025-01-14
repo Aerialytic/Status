@@ -40,19 +40,19 @@
     "url": "https://portal.aisolar.design",
     "icon": "https://icons.duckduckgo.com/ip3/portal.aisolar.design.ico",
     "slug": "crm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 328,
-    "timeWeek": 224,
-    "timeMonth": 253,
+    "timeDay": 321,
+    "timeWeek": 231,
+    "timeMonth": 255,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-01-14": 44
+      "2025-01-14": 58
     }
   },
   {
