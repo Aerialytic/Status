@@ -4,19 +4,19 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "aerialytic-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 482,
-    "timeWeek": 338,
-    "timeMonth": 307,
-    "timeYear": 334,
+    "time": 333,
+    "timeDay": 391,
+    "timeWeek": 333,
+    "timeMonth": 306,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 5
     }
   },
   {
