@@ -47,10 +47,10 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "89.33%",
+    "uptimeDay": "78.59%",
+    "uptimeWeek": "89.37%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "99.80%",
     "time": 67,
@@ -63,7 +63,7 @@
       "2025-08-25": 303,
       "2025-08-24": 248,
       "2025-08-23": 226,
-      "2025-08-22": 30
+      "2025-08-22": 26
     }
   },
   {
