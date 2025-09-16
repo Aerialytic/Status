@@ -49,15 +49,15 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "99.85%",
     "time": 63,
-    "timeDay": 58,
-    "timeWeek": 63,
+    "timeDay": 59,
+    "timeWeek": 64,
     "timeMonth": 55,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
       "2025-09-09": 114,
       "2025-09-08": 92,
       "2025-09-07": 41,
-      "2025-09-06": 51
+      "2025-09-06": 47
     }
   },
   {
@@ -80,17 +80,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.aisolar.design.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 242,
     "timeDay": 272,
     "timeWeek": 291,
     "timeMonth": 253,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 19,
+      "2025-02-21": 10,
+      "2025-01-29": 5,
+      "2025-01-26": 8,
+      "2025-01-24": 58,
+      "2025-01-20": 26,
+      "2025-01-14": 58
+    }
   },
   {
     "name": "IPv6 test",
