@@ -58,15 +58,15 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.83%",
     "time": 61,
-    "timeDay": 54,
-    "timeWeek": 57,
+    "timeDay": 58,
+    "timeWeek": 56,
     "timeMonth": 55,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
       "2025-10-21": 105,
       "2025-10-20": 141,
       "2025-10-19": 99,
-      "2025-10-18": 31
+      "2025-10-18": 27
     }
   },
   {
@@ -90,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.aisolar.design.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
