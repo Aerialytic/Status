@@ -65,14 +65,14 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "93.12%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "93.19%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.74%",
     "time": 57,
-    "timeDay": 58,
+    "timeDay": 55,
     "timeWeek": 47,
     "timeMonth": 51,
     "timeYear": 58,
@@ -90,7 +90,7 @@
       "2026-01-19": 131,
       "2026-01-18": 104,
       "2026-01-17": 88,
-      "2026-01-16": 76
+      "2026-01-16": 55
     }
   },
   {
