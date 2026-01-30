@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "aerialytic-ai",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -65,14 +65,14 @@
     "url": "https://aerialytic.ai",
     "icon": "https://icons.duckduckgo.com/ip3/aerialytic.ai.ico",
     "slug": "graph-ql-api",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "91.41%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "94.74%",
     "uptimeWeek": "92.98%",
-    "uptimeMonth": "96.71%",
+    "uptimeMonth": "96.79%",
     "uptimeYear": "99.73%",
     "time": 57,
-    "timeDay": 67,
+    "timeDay": 64,
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 58,
@@ -90,7 +90,7 @@
       "2026-01-20": 76,
       "2026-01-19": 131,
       "2026-01-18": 104,
-      "2026-01-17": 88
+      "2026-01-17": 53
     }
   },
   {
