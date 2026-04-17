@@ -11,9 +11,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.57%",
     "time": 439,
-    "timeDay": 233,
-    "timeWeek": 392,
-    "timeMonth": 444,
+    "timeDay": 552,
+    "timeWeek": 429,
+    "timeMonth": 442,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2026-04-14": 24,
@@ -67,8 +67,7 @@
       "2025-06-26": 26,
       "2025-06-25": 14,
       "2025-06-24": 7,
-      "2025-06-12": 5,
-      "2025-04-17": 5
+      "2025-06-12": 5
     }
   },
   {
@@ -78,13 +77,13 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "86.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.59%",
     "uptimeMonth": "89.24%",
     "uptimeYear": "99.10%",
     "time": 57,
-    "timeDay": 56,
-    "timeWeek": 67,
+    "timeDay": 32,
+    "timeWeek": 64,
     "timeMonth": 57,
     "timeYear": 58,
     "dailyMinutesDown": {
@@ -130,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 191,
-    "timeWeek": 189,
-    "timeMonth": 289,
-    "timeYear": 247,
+    "timeDay": 425,
+    "timeWeek": 214,
+    "timeMonth": 291,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-08-13": 19
     }
