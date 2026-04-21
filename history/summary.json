@@ -122,9 +122,9 @@
     "url": "https://portal.aisolar.design",
     "icon": "https://icons.duckduckgo.com/ip3/portal.aisolar.design.ico",
     "slug": "crm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,6 +134,7 @@
     "timeMonth": 294,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2025-08-13": 19
     }
   },
