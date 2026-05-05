@@ -3,17 +3,26 @@ owner: aerialytic # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: Aerialytic AI
+  - name: Aerialytic Website
     url: https://aerialytic.ai
-  - name: GraphQL API
-    url: https://aerialytic.ai
-  - name: CRM
+  - name: Production CRM Portal
     url: https://portal.aisolar.design
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Production CRM Main Alias
+    url: https://portal.main.aerialytic.dev
+  - name: Production CRM API Auth Boundary
+    url: https://portal.aisolar.design/api/user/self/
+    expectedStatusCodes:
+      - 401
+  - name: Production Imagery Service
+    url: https://imagery.platform.aisolar.design/healthcheck
+  - name: Next CRM Portal
+    url: https://portal.next.aerialytic.dev
+  - name: Next CRM API Auth Boundary
+    url: https://portal.next.aerialytic.dev/api/user/self/
+    expectedStatusCodes:
+      - 401
+  - name: Next Imagery Service
+    url: https://imagery.platform.next.aerialytic.dev/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,10 +36,12 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: CRM
+    - title: Website
+      href: https://aerialytic.ai
+    - title: Production CRM
       href: https://portal.aisolar.design
-    - title: Platform
-      href: https://platform.aerialytic.ai
+    - title: Next CRM
+      href: https://portal.next.aerialytic.dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
